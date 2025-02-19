@@ -67,4 +67,4 @@ model.fit_generator(
 )
 
 # Save the model
-model.save('models/resnet50_cnnCat4.h5', overwrite=True)
+model.save('models/resnet50.h5', overwrite=True)
